@@ -1,0 +1,17 @@
+{
+	"company": {
+		"compid": "1001",
+		"employees": [
+			{
+				"name": "John",
+				"id": "101",
+				"designation": "Developer"
+			},
+			{
+				"name": "Tom",
+				"id": "102",
+				"designation": "QA"
+			}
+		]
+	}
+}
